@@ -2,6 +2,8 @@
 
 Demo vedio link: https://drive.google.com/file/d/1CukvEZzI-YP2TM8OUYPGOlTVogMmfhp8/view?usp=drivesdk
 
+Project document link:https://drive.google.com/file/d/1DaxkqNjecwdXpK6OUfzHTHL8a82mWrbW/view?usp=drivesdk
+
 GoogleDeveloper URL:
 
 TeamLead - Magesh.b :https://developers.google.com/profile/u/mageshbalasundaramwebdeveloper
